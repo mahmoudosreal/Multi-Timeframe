@@ -44,7 +44,7 @@ This Pine Script indicator, named "Multi-Timeframe," is designed to provide a tr
 
 This script is provided for educational and informational purposes only. It does not constitute financial advice, and trading carries risks. Always perform your own research and consider consulting a financial advisor before making any trading decisions.
 
-For more information and updates, visit [mahmoudos.com](www.mahmoudos.com).
+For more information and updates, visit [mahmoudos.com].
 
 ----------
 
